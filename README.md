@@ -2,4 +2,4 @@
 
 Inspired & re-created from : r/python (forgot his username)
 
-Usage: macOS - zsh
+Used in : macOS - zsh
